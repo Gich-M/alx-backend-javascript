@@ -1,6 +1,6 @@
 # ES6 Data Manipulation
 
-This project contains a series of JavaScript functions that demonstrate various ES6 data manipulation techniques. It's part of the ALX Backend JavaScript curriculum.
+This project contains a series of JavaScript functions that demonstrate various ES6 data manipulation techniques. It is part of the ALX Backend JavaScript curriculum.
 
 ## Project Structure
 
@@ -54,4 +54,4 @@ npm run dev 0-main.js
 
 ## Testing
 
-Each task has a corresponding main file for testing. Run these files to check if your implementation is correct.
+Each task has a corresponding main file for testing. Run these files to confirm the correctness of the implementation.
